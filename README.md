@@ -33,3 +33,5 @@ To Stop an appium server wer are using below code.
 Runtime.getRuntime().exec("tasjkill/F/IM node.exe");
 Runtime.getRuntime().exec("tasjkill/F/IM cmd.exe");
 
+
+I had written code on calculator adding two numbers please have a look in the class file.
